@@ -5,9 +5,8 @@ from jwttoken import create_access_token, get_current_user
 from fastapi.security import OAuth2PasswordRequestForm
 from fastapi.middleware.cors import CORSMiddleware
 import model
-import uvicorn
 
-app = FastAPI()
+app = FastAPI(title="CPU & GPU Recommendation")
 origins = [
     "http://localhost:3000",
     "http://localhost:8080",
@@ -30,6 +29,12 @@ db = client["User"]
 def read_root(current_user:model.User = Depends(get_current_user)):
 	return {"data":"Ini udh terautentikasi"}
 
+@app.get("/user/{username}")
+def get_userdata(current_user:model.User = Depends(get_current_user)):
+	return {
+		"nama":"current_user.username"
+		}
+
 @app.post('/register')
 def create_user(request:model.User):
 	hashed_pass = Hash.bcrypt(request.password)
@@ -49,6 +54,3 @@ def login(request:OAuth2PasswordRequestForm = Depends()):
 	access_token = create_access_token(data={"sub": user["username"] })
 	return {"access_token": access_token, "token_type": "bearer"}
 
-
-if __name__ == "__main__":
-    uvicorn.run("main:app", host="localhost", port=8000, reload=True)

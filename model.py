@@ -3,7 +3,6 @@ from typing import Optional
 
 class User(BaseModel):
     username: str
-    company: str
     password: str
 class Login(BaseModel):
 	username: str

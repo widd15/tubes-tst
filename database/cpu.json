@@ -1,0 +1,212 @@
+[
+    {
+        "CPU": "AMD APU A10 - 9700 (3.5/3.8G) 4 CORE + FAN + VGA (ONLY A320M SUPPORTED)",
+        "Harga": "RP. 1,000,000",
+        "Score": 498
+    },
+    {
+        "CPU": "AMD APU A8 - 9600 (3.1/3.4G) 4 CORE + FAN + VGA (ONLY A320M SUPPORTED)",
+        "Harga": "RP. 770,000",
+        "Score": 358
+    },
+    {
+        "CPU": "AMD ATHLON 200GE (3.3) 2/4 + VEGA3",
+        "Harga": "RP. 900,000",
+        "Score": 722
+    },
+    {
+        "CPU": "AMD ATHLON 3000G (3.5) 2/4 + VEGA3",
+        "Harga": "RP. 895,000",
+        "Score": 807
+    },
+    {
+        "CPU": "AMD RYZEN 5 - 5500 (3.6/4.2G) 6/12 + FAN",
+        "Harga": "RP. 1,650,000",
+        "Score": 1412
+    },
+    {
+        "CPU": "AMD RYZEN 5 - 5600 (3.5/4.4G) 6/12 + FAN",
+        "Harga": "RP. 2,230,000",
+        "Score": 1547
+    },
+    {
+        "CPU": "AMD RYZEN 5 - 5600G (3.9/4.4G) 6/12 + FAN+VGA",
+        "Harga": "RP. 2,130,000",
+        "Score": 1466
+    },
+    {
+        "CPU": "AMD RYZEN 5 - 5600X (3.7/4.6G) 6/12 + FAN",
+        "Harga": "RP. 2,730,000",
+        "Score": 1612
+    },
+    {
+        "CPU": "AMD RYZEN 5 - 7600X W/O COOLER",
+        "Harga": "RP. 4,380,000",
+        "Score": 2121
+    },
+    {
+        "CPU": "AMD RYZEN 5 PRO - 4650G + FAN VGA TRAY",
+        "Harga": "RP. 1,880,000",
+        "Score": 1168
+    },
+    {
+        "CPU": "AMD RYZEN 7 - 5700G (3.8/4.6G) 8/16 + FAN+VGA",
+        "Harga": "RP. 3,220,000",
+        "Score": 1537
+    },
+    {
+        "CPU": "AMD RYZEN 7 - 5700X (3.4/4.6G) 8/16 W/O FAN",
+        "Harga": "RP. 3,135,000",
+        "Score": 1607
+    },
+    {
+        "CPU": "AMD RYZEN 7 - 5800X (3.8/4.7G) 8/16 W/O FAN",
+        "Harga": "RP. 4,150,000",
+        "Score": 1582
+    },
+    {
+        "CPU": "AMD RYZEN 7 - 5800X3D (3.4/4.5G) 8/16 W/O FAN",
+        "Harga": "RP. 6,030,000",
+        "Score": 1579
+    },
+    {
+        "CPU": "AMD RYZEN 7 - 7700X W/O COOLER",
+        "Harga": "RP. 6,080,000",
+        "Score": 2152
+    },
+    {
+        "CPU": "AMD RYZEN 9 - 5900X (3.7/4.6G) 12/24 W/O FAN",
+        "Harga": "RP. 6,030,000",
+        "Score": 1670
+    },
+    {
+        "CPU": "AMD RYZEN 9 - 5950X (3.4/4.9G) 16/32 W/O FAN",
+        "Harga": "RP. 8,750,000",
+        "Score": 1683
+    },
+    {
+        "CPU": "AMD RYZEN 9 - 7900X W/O COOLER",
+        "Harga": "RP. 8,200,000",
+        "Score": 2190
+    },
+    {
+        "CPU": "AMD RYZEN 9 - 7950X W/O COOLER",
+        "Harga": "RP. 9,900,000",
+        "Score": 2192
+    },
+    {
+        "CPU": "AMD RYZEN THREADRIPPER 3960X TRX40",
+        "Harga": "RP. 21,200,000",
+        "Score": 1267
+    },
+    {
+        "CPU": "AMD RYZEN THREADRIPPER 3970X TRX40",
+        "Harga": "RP. 32,000,000",
+        "Score": 1255
+    },
+    {
+        "CPU": "INTEL CORE I3-12100 (3.3-4.3/C12) 8/8",
+        "Harga": "RP. 2,395,000",
+        "Score": 1597
+    },
+    {
+        "CPU": "INTEL CORE I3-12100F (3.3-4.3/C12) 8/8",
+        "Harga": "RP. 1,695,000",
+        "Score": 1621
+    },
+    {
+        "CPU": "INTEL CORE I5-12400 (2.5-4.4/C18) 6/12",
+        "Harga": "RP. 3,495,000",
+        "Score": 1638
+    },
+    {
+        "CPU": "INTEL CORE I5-12400F (2.5-4.4/C18) 6/12",
+        "Harga": "RP. 3,050,000",
+        "Score": 1636
+    },
+    {
+        "CPU": "INTEL CORE I5-12500 (3.0-4.6/C18) 6/12",
+        "Harga": "RP. 3,980,000",
+        "Score": 1688
+    },
+    {
+        "CPU": "INTEL CORE I5-12600 (3.3-4.6/C18) 6/12",
+        "Harga": "RP. 4,335,000",
+        "Score": 1769
+    },
+    {
+        "CPU": "INTEL CORE I5-12600K (2.8-4.9/C20) 10/16",
+        "Harga": "RP. 5,455,000",
+        "Score": 1856
+    },
+    {
+        "CPU": "INTEL CORE I5-12600KF (2.8-4.9/C20) 10/16",
+        "Harga": "RP. 4,915,000",
+        "Score": 1858
+    },
+    {
+        "CPU": "INTEL CORE I5-13600K (2.6-5.1/C24) 14/20",
+        "Harga": "RP. 5,800,000",
+        "Score": 1970
+    },
+    {
+        "CPU": "INTEL CORE I5-13600KF (2.6-5.1/C24) 14/20",
+        "Harga": "RP. 5,425,000",
+        "Score": 2057
+    },
+    {
+        "CPU": "INTEL CORE I7-12700 (1.6-4.9/C25) 12/20",
+        "Harga": "RP. 6,295,000",
+        "Score": 1785
+    },
+    {
+        "CPU": "INTEL CORE I7-12700F (1.6-4.9/C25) 12/20",
+        "Harga": "RP. 5,950,000",
+        "Score": 1773
+    },
+    {
+        "CPU": "INTEL CORE I7-12700K (2.7-5.0/C25) 12/20",
+        "Harga": "RP. 7,480,000",
+        "Score": 1909
+    },
+    {
+        "CPU": "INTEL CORE I7-12700KF (2.7-5.0/C25) 12/20",
+        "Harga": "RP. 6,985,000",
+        "Score": 1904
+    },
+    {
+        "CPU": "INTEL CORE I7-13700K (2.5-5.4/C30) 16/24",
+        "Harga": "RP. 7,995,000",
+        "Score": 2083
+    },
+    {
+        "CPU": "INTEL CORE I7-13700KF (2.5-5.4/C30) 16/24",
+        "Harga": "RP. 7,495,000",
+        "Score": 2139
+    },
+    {
+        "CPU": "INTEL CORE I9-12900 (1.8-5.1/C30) 16/24",
+        "Harga": "RP. 9,310,000",
+        "Score": 1835
+    },
+    {
+        "CPU": "INTEL CORE I9-12900K (2.4-5.2/C30) 16/24",
+        "Harga": "RP. 10,495,000",
+        "Score": 1988
+    },
+    {
+        "CPU": "INTEL CORE I9-12900KF (2.4-5.2/C30) 16/24",
+        "Harga": "RP. 9,995,000",
+        "Score": 1963
+    },
+    {
+        "CPU": "INTEL CORE I9-13900K (2.2-5.8/C36) 24/32",
+        "Harga": "RP. 11,050,000",
+        "Score": 2227
+    },
+    {
+        "CPU": "INTEL CORE I9-13900KF (2.2-5.8/C36) 24/32",
+        "Harga": "RP. 10,750,000",
+        "Score": 2202
+    }
+]

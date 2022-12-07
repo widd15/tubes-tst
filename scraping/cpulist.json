@@ -1,212 +1,362 @@
 [
     {
-        "nama_part": "AMD APU A10 - 9700 (3.5/3.8G) 4 Core + fan + vga (only A320M supported) "
+        "CPU": "AMD APU A10 - 9700 (3.5/3.8G) 4 Core + fan + vga (only A320M supported)",
+        "Harga": "RP. 1,000,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD APU A8 - 9600 (3.1/3.4G) 4 Core + fan + vga (only A320M supported) "
+        "CPU": "AMD APU A8 - 9600 (3.1/3.4G) 4 Core + fan + vga (only A320M supported)",
+        "Harga": "RP. 770,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD ATHLON 200GE (3.3) 2/4 + VEGA3 "
+        "CPU": "AMD ATHLON 200GE (3.3) 2/4 + VEGA3",
+        "Harga": "RP. 900,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD ATHLON 3000G (3.5) 2/4 + VEGA3 "
+        "CPU": "AMD ATHLON 3000G (3.5) 2/4 + VEGA3",
+        "Harga": "RP. 895,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD ATHLON 3000G (3.5) 2/4 + VEGA3 TRAY "
+        "CPU": "AMD ATHLON 3000G (3.5) 2/4 + VEGA3 TRAY",
+        "Harga": "RP. 790,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 3 - 3100 3.6G 4/8 + fan "
+        "CPU": "AMD RYZEN 3 - 3100 3.6G 4/8 + fan",
+        "Harga": "RP. 1,995,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 3 - 3200G 3.6G 4/4 + fan VEGA8 "
+        "CPU": "AMD RYZEN 3 - 3200G 3.6G 4/4 + fan VEGA8",
+        "Harga": "RP. 1,640,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 3 - 3300X 3.8G 4/8 + fan "
+        "CPU": "AMD RYZEN 3 - 3300X 3.8G 4/8 + fan",
+        "Harga": "RP. 2,195,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 3 - 3300X 3.8G 4/8 + fan "
+        "CPU": "AMD RYZEN 3 - 3300X 3.8G 4/8 + fan",
+        "Harga": "RP. 3,495,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 3 - 4100 (3.8-4.0G) 4/8 +fan "
+        "CPU": "AMD RYZEN 3 - 4100 (3.8-4.0G) 4/8 +fan",
+        "Harga": "RP. 1,130,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 3 PRO - 4350G + fan vga tray "
+        "CPU": "AMD RYZEN 3 PRO - 4350G + fan vga tray",
+        "Harga": "RP. 2,150,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 5 - 3400G 3.7G 4/8 + fan VEGA11 "
+        "CPU": "AMD RYZEN 5 - 3400G 3.7G 4/8 + fan VEGA11",
+        "Harga": "RP. 2,950,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 5 - 3500 3.6G 6/6 + fan "
+        "CPU": "AMD RYZEN 5 - 3500 3.6G 6/6 + fan",
+        "Harga": "RP. 2,495,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 5 - 3600 3.6G 6/12 + fan "
+        "CPU": "AMD RYZEN 5 - 3600 3.6G 6/12 + fan",
+        "Harga": "RP. 1,950,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 5 - 4500 (3.6-4.1G) 6/12 +fan "
+        "CPU": "AMD RYZEN 5 - 4500 (3.6-4.1G) 6/12 +fan",
+        "Harga": "RP. 1,495,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 5 - 4600G (3.7/4.2G) 6/12 + fan vga "
+        "CPU": "AMD RYZEN 5 - 4600G (3.7/4.2G) 6/12 + fan vga",
+        "Harga": "RP. 1,680,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 5 - 5500 (3.6/4.2G) 6/12 + fan "
+        "CPU": "AMD RYZEN 5 - 5500 (3.6/4.2G) 6/12 + fan",
+        "Harga": "RP. 1,650,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 5 - 5600 (3.5/4.4G) 6/12 + fan "
+        "CPU": "AMD RYZEN 5 - 5600 (3.5/4.4G) 6/12 + fan",
+        "Harga": "RP. 2,230,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 5 - 5600G (3.9/4.4G) 6/12 + fan+vga "
+        "CPU": "AMD RYZEN 5 - 5600G (3.9/4.4G) 6/12 + fan+vga",
+        "Harga": "RP. 2,130,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 5 - 5600X (3.7/4.6G) 6/12 + fan "
+        "CPU": "AMD RYZEN 5 - 5600X (3.7/4.6G) 6/12 + fan",
+        "Harga": "RP. 2,730,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 5 PRO - 4650G + fan vga tray "
+        "CPU": "AMD RYZEN 5 - 7600X w/o Cooler",
+        "Harga": "RP. 4,380,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 7 - 5700G (3.8/4.6G) 8/16 + fan+vga "
+        "CPU": "AMD RYZEN 5 PRO - 4650G + fan vga tray",
+        "Harga": "RP. 1,880,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 7 - 5700X (3.4/4.6G) 8/16 w/o fan "
+        "CPU": "AMD RYZEN 7 - 5700G (3.8/4.6G) 8/16 + fan+vga",
+        "Harga": "RP. 3,220,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 7 - 5800X (3.8/4.7G) 8/16 w/o fan "
+        "CPU": "AMD RYZEN 7 - 5700X (3.4/4.6G) 8/16 w/o fan",
+        "Harga": "RP. 3,135,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 7 - 5800X3D (3.4/4.5G) 8/16 w/o fan "
+        "CPU": "AMD RYZEN 7 - 5800X (3.8/4.7G) 8/16 w/o fan",
+        "Harga": "RP. 4,150,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 9 - 5900X (3.7/4.6G) 12/24 w/o fan "
+        "CPU": "AMD RYZEN 7 - 5800X3D (3.4/4.5G) 8/16 w/o fan",
+        "Harga": "RP. 6,030,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN 9 - 5950X (3.4/4.9G) 16/32 w/o fan "
+        "CPU": "AMD RYZEN 7 - 7700X w/o Cooler",
+        "Harga": "RP. 6,080,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN THREADRIPPER 3960X TRX40 "
+        "CPU": "AMD RYZEN 9 - 5900X (3.7/4.6G) 12/24 w/o fan",
+        "Harga": "RP. 6,030,000",
+        "Score": 0
     },
     {
-        "nama_part": "AMD RYZEN THREADRIPPER 3970X TRX40 "
+        "CPU": "AMD RYZEN 9 - 5950X (3.4/4.9G) 16/32 w/o fan",
+        "Harga": "RP. 8,750,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i3-10100 BOX (3.6/C6) 4/8 "
+        "CPU": "AMD RYZEN 9 - 7900X w/o Cooler",
+        "Harga": "RP. 8,200,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i3-10100F BOX (3.6/C6) 4/8 w/o vga "
+        "CPU": "AMD RYZEN 9 - 7950X w/o Cooler",
+        "Harga": "RP. 9,900,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i3-10105 BOX (3.69/C6) 4/8 Intel UHD 630 "
+        "CPU": "AMD RYZEN THREADRIPPER 3960X TRX40",
+        "Harga": "RP. 21,200,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i3-10105F BOX (3.69/C6) 4/8 w/o vga "
+        "CPU": "AMD RYZEN THREADRIPPER 3970X TRX40",
+        "Harga": "RP. 32,000,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i3-12100 (3.3-4.3/C12) 8/8 "
+        "CPU": "Intel Core i3-10100 BOX (3.6/C6) 4/8",
+        "Harga": "RP. 1,985,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i3-12100F (3.3-4.3/C12) 8/8 "
+        "CPU": "Intel Core i3-10100F BOX (3.6/C6) 4/8 w/o vga",
+        "Harga": "RP. 1,315,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i5-10400 BOX (2.9/C12) 6/12 "
+        "CPU": "Intel Core i3-10105 BOX (3.69/C6) 4/8 Intel UHD 630",
+        "Harga": "RP. 1,975,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i5-10400F BOX (2.9/C12) 6/12 w/o vga "
+        "CPU": "Intel Core i3-10105F BOX (3.69/C6) 4/8 w/o vga",
+        "Harga": "RP. 1,295,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i5-11400 BOX (2.6/C12) 6/12 "
+        "CPU": "Intel Core i3-12100 (3.3-4.3/C12) 8/8",
+        "Harga": "RP. 2,395,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i5-11400F BOX (2.6/C12) 6/12 w/o vga "
+        "CPU": "Intel Core i3-12100F (3.3-4.3/C12) 8/8",
+        "Harga": "RP. 1,695,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i5-11500 BOX (2.7/C12) 6/12 "
+        "CPU": "Intel Core i5-10400 BOX (2.9/C12) 6/12",
+        "Harga": "RP. 2,495,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i5-11600K Tray + GammaXX400 8/2 "
+        "CPU": "Intel Core i5-10400F BOX (2.9/C12) 6/12 w/o vga",
+        "Harga": "RP. 1,985,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i5-11600KF Tray + GammaXX400 8/12 "
+        "CPU": "Intel Core i5-11400 BOX (2.6/C12) 6/12",
+        "Harga": "RP. 2,895,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i5-12400 (2.5-4.4/C18) 6/12 "
+        "CPU": "Intel Core i5-11400F BOX (2.6/C12) 6/12 w/o vga",
+        "Harga": "RP. 2,555,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i5-12400F (2.5-4.4/C18) 6/12 "
+        "CPU": "Intel Core i5-11500 BOX (2.7/C12) 6/12",
+        "Harga": "RP. 3,330,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i5-12500 (3.0-4.6/C18) 6/12 "
+        "CPU": "Intel Core i5-11600K Tray + GammaXX400 8/2",
+        "Harga": "RP. 3,195,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i5-12600 (3.3-4.6/C18) 6/12 "
+        "CPU": "Intel Core i5-11600KF Tray + GammaXX400 8/12",
+        "Harga": "RP. 2,995,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i5-12600K (2.8-4.9/C20) 10/16 "
+        "CPU": "Intel Core i5-12400 (2.5-4.4/C18) 6/12",
+        "Harga": "RP. 3,495,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i5-12600KF (2.8-4.9/C20) 10/16 "
+        "CPU": "Intel Core i5-12400F (2.5-4.4/C18) 6/12",
+        "Harga": "RP. 3,050,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i5-13600K (2.6-5.1/C24) 14/20 "
+        "CPU": "Intel Core i5-12500 (3.0-4.6/C18) 6/12",
+        "Harga": "RP. 3,980,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i5-13600KF (2.6-5.1/C24) 14/20 "
+        "CPU": "Intel Core i5-12600 (3.3-4.6/C18) 6/12",
+        "Harga": "RP. 4,335,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i7-10700 BOX (2.9/C16) 8/16 "
+        "CPU": "Intel Core i5-12600K (2.8-4.9/C20) 10/16",
+        "Harga": "RP. 5,455,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i7-10700F BOX (2.9/C16) 8/16 w/o vga "
+        "CPU": "Intel Core i5-12600KF (2.8-4.9/C20) 10/16",
+        "Harga": "RP. 4,915,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i7-11700 BOX (2.5/C16) 8/16 "
+        "CPU": "Intel Core i5-13600K (2.6-5.1/C24) 14/20",
+        "Harga": "RP. 5,800,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i7-11700F BOX (2.5/C16) 8/16 w/o vga "
+        "CPU": "Intel Core i5-13600KF (2.6-5.1/C24) 14/20",
+        "Harga": "RP. 5,425,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i7-11700KF BOX (3.6/C16) 8/16 w/o vga "
+        "CPU": "Intel Core i7-10700 BOX (2.9/C16) 8/16",
+        "Harga": "RP. 4,750,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i7-12700 (1.6-4.9/C25) 12/20 "
+        "CPU": "Intel Core i7-10700F BOX (2.9/C16) 8/16 w/o vga",
+        "Harga": "RP. 4,215,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i7-12700F (1.6-4.9/C25) 12/20 "
+        "CPU": "Intel Core i7-11700 BOX (2.5/C16) 8/16",
+        "Harga": "RP. 5,950,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i7-12700K (2.7-5.0/C25) 12/20 "
+        "CPU": "Intel Core i7-11700F BOX (2.5/C16) 8/16 w/o vga",
+        "Harga": "RP. 5,195,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i7-12700KF (2.7-5.0/C25) 12/20 "
+        "CPU": "Intel Core i7-11700KF BOX (3.6/C16) 8/16 w/o vga",
+        "Harga": "RP. 6,050,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i7-13700K (2.5-5.4/C30) 16/24 "
+        "CPU": "Intel Core i7-12700 (1.6-4.9/C25) 12/20",
+        "Harga": "RP. 6,295,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i7-13700KF (2.5-5.4/C30) 16/24 "
+        "CPU": "Intel Core i7-12700F (1.6-4.9/C25) 12/20",
+        "Harga": "RP. 5,950,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i9-12900 (1.8-5.1/C30) 16/24 "
+        "CPU": "Intel Core i7-12700K (2.7-5.0/C25) 12/20",
+        "Harga": "RP. 7,480,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i9-12900F (1.8-5.1/C30) 16/24 "
+        "CPU": "Intel Core i7-12700KF (2.7-5.0/C25) 12/20",
+        "Harga": "RP. 6,985,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i9-12900K (2.4-5.2/C30) 16/24 "
+        "CPU": "Intel Core i7-13700K (2.5-5.4/C30) 16/24",
+        "Harga": "RP. 7,995,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i9-12900KF (2.4-5.2/C30) 16/24 "
+        "CPU": "Intel Core i7-13700KF (2.5-5.4/C30) 16/24",
+        "Harga": "RP. 7,495,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i9-13900K (2.2-5.8/C36) 24/32 "
+        "CPU": "Intel Core i9-12900 (1.8-5.1/C30) 16/24",
+        "Harga": "RP. 9,310,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Core i9-13900KF (2.2-5.8/C36) 24/32 "
+        "CPU": "Intel Core i9-12900F (1.8-5.1/C30) 16/24",
+        "Harga": "RP. 8,840,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Pentium GOLD G6400 BOX (4.0/C4) 2/4 "
+        "CPU": "Intel Core i9-12900K (2.4-5.2/C30) 16/24",
+        "Harga": "RP. 10,495,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Pentium GOLD G6405 BOX (4.1/C4) 2/4 "
+        "CPU": "Intel Core i9-12900KF (2.4-5.2/C30) 16/24",
+        "Harga": "RP. 9,995,000",
+        "Score": 0
     },
     {
-        "nama_part": "Intel Pentium GOLD G7400 BOX "
+        "CPU": "Intel Core i9-13900K (2.2-5.8/C36) 24/32",
+        "Harga": "RP. 11,050,000",
+        "Score": 0
+    },
+    {
+        "CPU": "Intel Core i9-13900KF (2.2-5.8/C36) 24/32",
+        "Harga": "RP. 10,750,000",
+        "Score": 0
+    },
+    {
+        "CPU": "Intel Pentium GOLD G6400 BOX (4.0/C4) 2/4",
+        "Harga": "RP. 1,095,000",
+        "Score": 0
     }
 ]

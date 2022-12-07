@@ -12,3 +12,11 @@ class Token(BaseModel):
     token_type: str
 class TokenData(BaseModel):
     username: Optional[str] = None
+class cpu(BaseModel):
+    CPU: str
+    Harga: str
+    Score: int
+class gpu(BaseModel):
+    GPU: str
+    Harga: str
+    Score: int

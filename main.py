@@ -4,6 +4,7 @@ from models.jwttoken import create_access_token
 from fastapi.security import OAuth2PasswordRequestForm
 from models.model import User
 from routes.parts_router import parts_router
+from routes.core_routes import core_router
 from database.database import user_db
 
 app = FastAPI(title="CPU & GPU Recommendation Based on Budget")
@@ -32,3 +33,4 @@ def login(request:OAuth2PasswordRequestForm = Depends()):
 	return {"access_token": access_token, "token_type": "bearer"}
 
 app.include_router(parts_router, tags=['Parts'], prefix='/parts')
+app.include_router(core_router, tags=['Core'], prefix='/core')

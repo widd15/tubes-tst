@@ -48,17 +48,34 @@ def get_gpu_from_name(gpu_name: str, current_user:User = Depends(get_current_use
     search = gpu_name.upper().split()
     for gpu in gpu_db.find():
         if all(x in gpu['GPU'] for x in search):
-            gpus.append(gpu_parser(cpu))
+            gpus.append(gpu_parser(gpu))
+    return gpus
+    
+@parts_router.get('/cpus/under/{harga}')
+def get_cpu_under_price(harga: int):
+    cpus = []
+    for cpu in cpu_db.find():
+        if (parser_harga(cpu) < harga):
+            print(parser_harga(cpu))
+            cpus.append(cpu_parser(cpu))
+    return cpus
+
+@parts_router.get('/gpus/under/{harga}')
+def get_gpu_under_price(harga: int):
+    gpus = []
+    for gpu in gpu_db.find():
+        if (parser_harga(gpu) < harga):
+            gpus.append(gpu_parser(gpu))
     return gpus
 
 # POST
-@parts_router.post('cpus/add')
+@parts_router.post('/cpus/add')
 async def add_cpu_data(cpu: cpu = Body(...), current_user:User = Depends(get_current_user)):
     cpu = jsonable_encoder(cpu)
     new_cpu = await add_cpu(cpu)
     return {"CPU":"Added"}
 
-@parts_router.post('gpus/add')
+@parts_router.post('/gpus/add')
 async def add_gpu_data(gpu: gpu = Body(...), current_user:User = Depends(get_current_user)):
     gpu = jsonable_encoder(gpu)
     new_gpu = await add_gpu(gpu)

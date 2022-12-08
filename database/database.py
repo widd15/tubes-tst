@@ -2,6 +2,8 @@ from pymongo import MongoClient
 from bson.objectid import ObjectId
 from fastapi.encoders import jsonable_encoder
 from models.model import *
+from re import sub
+from decimal import Decimal
 
 mongodb_uri = 'mongodb+srv://widhys15:l1pW8mRA13f1xHei@apitst.jxllzys.mongodb.net/?retryWrites=true&w=majority'
 port = 8000
@@ -122,6 +124,31 @@ async def delete_gpu(id: str):
     if gpu:
         gpu_db.delete_one({"_id": ObjectId(id)})
         return True
+
+# Recommendation 
+def parser_harga(part: dict):
+    harga_raw = part['Harga']
+    harga_clean = harga_raw.replace("RP. ","")
+    harga_clean = harga_clean.replace(",","")
+    return int(harga_clean)
+
+def parser_harga_total(part: dict):
+    harga_raw = part['harga']
+    harga_clean = harga_raw.replace("RP. ","")
+    harga_clean = harga_clean.replace(",","")
+    return int(harga_clean)
+
+def combine_score(cpu: dict, gpu: dict) -> int:
+    cscore = cpu['score']
+    gscore = gpu['score']
+    combined_score = int(1 / ((0.85/gscore)+(0.15/cscore)))
+    return combined_score
+
+def harga_total(cpu: dict, gpu: dict) -> int:
+    harga_cpu = parser_harga_total(cpu)
+    harga_gpu = parser_harga_total(gpu)
+    return (harga_cpu + harga_gpu)
+
 
 # # CPU Test
 # # Convert data cpu dari database ke python

@@ -52,7 +52,7 @@ def get_gpu_from_name(gpu_name: str, current_user:User = Depends(get_current_use
     return gpus
     
 @parts_router.get('/cpus/under/{harga}')
-def get_cpu_under_price(harga: int):
+def get_cpu_under_price(harga: int, current_user:User = Depends(get_current_user)):
     cpus = []
     for cpu in cpu_db.find():
         if (parser_harga(cpu) < harga):
@@ -61,7 +61,7 @@ def get_cpu_under_price(harga: int):
     return cpus
 
 @parts_router.get('/gpus/under/{harga}')
-def get_gpu_under_price(harga: int):
+def get_gpu_under_price(harga: int, current_user:User = Depends(get_current_user)):
     gpus = []
     for gpu in gpu_db.find():
         if (parser_harga(gpu) < harga):
